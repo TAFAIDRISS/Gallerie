@@ -1,17 +1,13 @@
-{
-	"open": [
-
-		{
-			"saved": "https://i.ibb.co/p4bbQbF/q1.jpg",
-			"shared": "https://i.ibb.co/p4bbQbF/q1.jpg",
-			"next": "https://i.ibb.co/p4bbQbF/q1.jpg",
-			"arrow": "https://i.ibb.co/p4bbQbF/q1.jpg",
-			"images": ["https://i.ibb.co/p4bbQbF/q1.jpg",
-				"https://i.ibb.co/p4bbQbF/q1.jpg",
-				"https://i.ibb.co/p4bbQbF/q1.jpg",
-				"https://i.ibb.co/p4bbQbF/q1.jpg"
-			]
-
-		}
+[
+	{
+	"saved": "https://i.ibb.co/p4bbQbF/q1.jpg",
+	"shared": "https://i.ibb.co/p4bbQbF/q1.jpg",
+	"next": "https://i.ibb.co/p4bbQbF/q1.jpg",
+	"arrow": "https://i.ibb.co/p4bbQbF/q1.jpg",
+	"images": ["https://i.ibb.co/p4bbQbF/q1.jpg",
+		"https://i.ibb.co/p4bbQbF/q1.jpg",
+		"https://i.ibb.co/p4bbQbF/q1.jpg",
+		"https://i.ibb.co/p4bbQbF/q1.jpg"
 	]
-}
+}]
+
