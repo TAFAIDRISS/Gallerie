@@ -1,12 +1,11 @@
 [{
-
-	"images": ["https://i.ibb.co/6yRkHLw/a1.jpg",
-		"https://i.ibb.co/6yRkHLw/a1.jpg",
-		"https://i.ibb.co/6yRkHLw/a1.jpg",
-		"https://i.ibb.co/6yRkHLw/a1.jpg",
-		"https://i.ibb.co/6yRkHLw/a1.jpg",
-		"https://i.ibb.co/6yRkHLw/a1.jpg"
-	]
-
-
+	"open": {
+		"images": ["https://i.ibb.co/6yRkHLw/a1.jpg",
+			"https://i.ibb.co/6yRkHLw/a1.jpg",
+			"https://i.ibb.co/6yRkHLw/a1.jpg",
+			"https://i.ibb.co/6yRkHLw/a1.jpg",
+			"https://i.ibb.co/6yRkHLw/a1.jpg",
+			"https://i.ibb.co/6yRkHLw/a1.jpg"
+		]
+	}
 }]
