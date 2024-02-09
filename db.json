@@ -1,11 +1,8 @@
-{
-	"open": {
-		"images": ["https://i.ibb.co/6yRkHLw/a1.jpg",
-			"https://i.ibb.co/6yRkHLw/a1.jpg",
-			"https://i.ibb.co/6yRkHLw/a1.jpg",
-			"https://i.ibb.co/6yRkHLw/a1.jpg",
-			"https://i.ibb.co/6yRkHLw/a1.jpg",
-			"https://i.ibb.co/6yRkHLw/a1.jpg"
-		]
-	}
-}
+[
+    {
+        "img": "https://i.ibb.co/6yRkHLw/a1.jpg"
+    },
+    {
+        "img": "https://i.ibb.co/6yRkHLw/a1.jpg"
+    }
+]
